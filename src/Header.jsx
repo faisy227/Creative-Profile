@@ -20,7 +20,7 @@ function Header() {
     <header>
       <div className="container">
         <div className="header-content">
-          <div className="logo">PORTFOL</div>
+          <div className="logo">PORTFOLIO</div>
           <button
             className="theme-toggle"
             id="themeToggle"
